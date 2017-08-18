@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLR_QRCode", "CLR_QRCode\CLR_QRCode.csproj", "{612CDE68-E87E-4191-B2B3-2DA0B460F645}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TI_QRCode", "CLR_QRCode\TI_QRCode.csproj", "{612CDE68-E87E-4191-B2B3-2DA0B460F645}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
