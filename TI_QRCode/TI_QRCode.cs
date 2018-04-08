@@ -19,7 +19,8 @@ namespace TI_QRCode
                 DisableECI = true,
                 CharacterSet = "UTF-8",
                 Width = width,
-                Height = height
+                Height = height,
+                Margin = 1
             };
             BarcodeWriter write = new BarcodeWriter();
             write.Format = BarcodeFormat.QR_CODE;
