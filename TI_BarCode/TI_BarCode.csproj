@@ -34,7 +34,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
-    <Reference Include="zxing, Version=0.16.2.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+    <Reference Include="zxing">
       <HintPath>..\packages\ZXing.Net.0.16.2\lib\net20\zxing.dll</HintPath>
     </Reference>
   </ItemGroup>
